@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-este es un repositorio de prueba del módulo 2
+este es un documento como prueba de como crear un nuevo repositorio y clonarlo usando git
